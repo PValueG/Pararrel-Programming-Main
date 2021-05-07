@@ -1,0 +1,8 @@
+﻿  DataAnalyser.cpp
+  This version of the OpenCL Host API C++ bindings is deprecated, please use cl2.hpp instead.
+  cl_version.h: CL_TARGET_OPENCL_VERSION is not defined. Defaulting to 220 (OpenCL 2.2)
+C:\Users\Computing\Downloads\Pararrel-Assessment-2021-main\OpenCL_Assignment\Tutorial 1\DataAnalyser.cpp(248,58): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Computing\Downloads\Pararrel-Assessment-2021-main\OpenCL_Assignment\Tutorial 1\DataAnalyser.cpp(249,58): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  Tutorial 1.vcxproj -> C:\Users\Computing\Downloads\Pararrel-Assessment-2021-main\OpenCL_Assignment\x64\Debug\Float Kernels.exe
+  kernels.cl
+          1 file(s) copied.
